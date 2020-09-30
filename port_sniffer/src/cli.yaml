@@ -1,0 +1,27 @@
+name: port_sniffer 
+version: "1.0"
+author: kangxiaoning. <kangxiaoning.dba@gmail.com>
+about: Port sniffer
+args:
+    - threads_number:
+        short: n
+        long: threads_number
+        value_name: THREADS_NUMBER
+        help: Sets number of threads to execute (default 1)
+        takes_value: true
+    - begin_port:
+        short: b
+        long: begin_port
+        value_name: BEGIN_PORT
+        help: Sets start port to be sniffed (default 1)
+        takes_value: true
+    - end_port:
+        short: e
+        long: end_port
+        value_name: END_PORT
+        help: Sets end port to be sniffed (default 1024)
+        takes_value: true
+    - IPADDRESS:
+        help: Sets the IPADDRESS to be sniffed
+        required: true
+        index: 1
