@@ -10,4 +10,4 @@
 
 ```
 
-![snapshot](https://github.com/kangxiaoning/rust-exercises/tree/master/snake/snapshot.pnt)
+![snapshot](https://github.com/kangxiaoning/rust-exercises/tree/master/snake/snapshot.png)
