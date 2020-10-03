@@ -3,4 +3,6 @@
 members = [
     "port_sniffer",
     "snake",
+    "chat/server",
+    "chat/client",
 ]
