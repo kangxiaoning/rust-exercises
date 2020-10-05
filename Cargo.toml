@@ -5,4 +5,5 @@ members = [
     "snake",
     "chat/server",
     "chat/client",
+    "blockchain",
 ]
