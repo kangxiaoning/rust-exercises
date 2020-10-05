@@ -29,7 +29,7 @@ fn main() {
         println!("3) Change Difficulty");
         println!("4) Change Reward");
         println!("0) Exit");
-        println!("Enter your choice: ");
+        print!("Enter your choice: ");
         let _ = io::stdout().flush();
         choice.clear();
         io::stdin().read_line(&mut choice).unwrap();
@@ -45,7 +45,7 @@ fn main() {
                 let mut receiver = String::new();
                 let mut amount = String::new();
 
-                print!("enter sender address:");
+                print!("enter sender address: ");
                 let _ = io::stdout().flush();
                 io::stdin().read_line(&mut sender).unwrap();
                 print!("enter receiver address: ");
