@@ -10,5 +10,6 @@ Reimplemented based on rust 1.46.0.
 | snake        | [snake](https://github.com/kangxiaoning/rust-exercises/tree/master/snake "snake")                      |
 | chat         | [chat](https://github.com/kangxiaoning/rust-exercises/tree/master/chat "chat")                         |
 | blockchain   | [blockchain](https://github.com/kangxiaoning/rust-exercises/tree/master/blockchain "blockchain")       |
+| web_api      | [web_api](https://github.com/kangxiaoning/rust-exercises/tree/master/web_api "web_api")                |
 
 

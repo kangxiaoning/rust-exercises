@@ -6,4 +6,5 @@ members = [
     "chat/server",
     "chat/client",
     "blockchain",
+    "web_api",
 ]
